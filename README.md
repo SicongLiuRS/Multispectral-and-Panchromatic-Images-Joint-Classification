@@ -1,2 +1,1 @@
-# CRHFF
-Novel cross-resolution feature-level fusion for joint classification of multispectral and panchromatic remote sensing images
+# Novel Cross-Resolution Feature-Level Fusion for Joint Classification of Multispectral and Panchromatic Remote Sensing Images
